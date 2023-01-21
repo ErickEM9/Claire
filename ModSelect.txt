@@ -1,0 +1,7 @@
+1, Ionico;
+2, Dorico;
+3, Frigio;
+4, Lidio;
+5, Misolidio;
+6, Eolio;
+7, Locrio;
